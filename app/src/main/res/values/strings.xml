@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">INGrupptest</string>
+    <string name="btnExit">Назад</string>
+    <string name="btnNext">Получить</string>
+</resources>
